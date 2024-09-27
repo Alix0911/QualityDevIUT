@@ -1,0 +1,17 @@
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.csproj.AssemblyReference.cache
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.AssemblyInfoInputs.cache
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.AssemblyInfo.cs
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.csproj.CoreCompileInputs.cache
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\bin\Debug\net6.0\Librairie.exe
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\bin\Debug\net6.0\Librairie.deps.json
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\bin\Debug\net6.0\Librairie.runtimeconfig.json
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\bin\Debug\net6.0\Librairie.dll
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\bin\Debug\net6.0\Librairie.pdb
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.dll
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\refint\Librairie.dll
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.pdb
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.genruntimeconfig.cache
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\ref\Librairie.dll
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alixs\OneDrive\Documents\BUT\R3.02 Dev Efficace\Librairie\Librairie\obj\Debug\net6.0\Librairie.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8CowdnzdowY+jPVI1sCOIDFkqJ+SrwIvr/HwPoY04rZ3h2Zbe5Nguq23y0k2Ui1EGrI0oYCWQFiw2EBDrtNUGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alixs\\GitQualDev\\Librairie\\Librairie\\Librairie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alixs\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
